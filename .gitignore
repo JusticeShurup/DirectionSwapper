@@ -1,0 +1,8 @@
+#Visual Studio Code properties
+/.vscode/
+
+#CMake Files
+build/CMakeFiles
+build/CMakeCache.txt
+build/cmake_install.cmake
+build/Makefile
